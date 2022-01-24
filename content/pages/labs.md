@@ -1,0 +1,15 @@
+---
+content_type: page
+title: Labs
+uid: 4e3b32c3-b8ab-32af-dae9-bdfc1301e7fe
+---
+
+Five class lectures are devoted to computer simulation labs. For each lab, students are required to complete a set of assigned problems.
+
+| LEC # | Topics | RESOURCES | SOLUTIONS |
+| --- | --- | --- | --- |
+| 4 | Lab 1: Energetics and Structure from Empirical Potentials ([PDF]({{< baseurl >}}/resources/lab1_assignment)) |  {{< br >}}{{< br >}} Gulp: An Empirical Energy Code ([PDF]({{< baseurl >}}/resources/gulp_handout)) {{< br >}}{{< br >}} Gillan, M. J. "Calculation of the vacancy formation energy in aluminum." _J Phys: Condens Matter_ 1 (1989): 689-711. {{< br >}}{{< br >}}  | &nbsp; |
+| 10 | Lab 2: Density Functional Theory I ([PDF]({{< baseurl >}}/resources/lab_assignment2)) |  {{< br >}}{{< br >}} [Quantum-Espresso](http://www.quantum-espresso.org/) {{< br >}}{{< br >}} Quantum-Espresso: A First-Principles Code ([PDF]({{< baseurl >}}/resources/pwscf_handout)) {{< br >}}{{< br >}} Data Files ([ZIP]({{< baseurl >}}/resources/3320_lab2)) (The ZIP file contains: C.pz-vbc.UPF, C.scf.in, C.scf.j, INPUT\_PW.txt, MIT3\_320\_Lab\_Assignment2\_2005.sxw, and results-lab2.sxc.) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lab_assign2_soln)) |
+| 12 | Lab 3: Density Functional Theory II ([PDF]({{< baseurl >}}/resources/lab3_problem_set)) |  {{< br >}}{{< br >}} [Quantum-Espresso](http://www.quantum-espresso.org/) {{< br >}}{{< br >}} Quantum-Espresso: A First Principles Code, Part 2 ([PDF]({{< baseurl >}}/resources/lab3_handout)) {{< br >}}{{< br >}} INPUT\_PW.txt ([TXT](/courses/materials-science-and-engineering/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/labs/INPUT_PW.txt)) {{< br >}}{{< br >}} Data Files ([ZIP]({{< baseurl >}}/resources/3320_lab3)) (The ZIP file contains: 4 .in files, 5 .UPF files, 3 .bash files, 8 .j files, and 5 .sh files.) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lab3_solution)) |
+| 16 | Lab 4: Molecular Dynamics ([PDF]({{< baseurl >}}/resources/lab_assignment4)) |  {{< br >}}{{< br >}} Moldy: Molecular Dynamics ([PDF]({{< baseurl >}}/resources/moldy_handout)) {{< br >}}{{< br >}} Morris, J. R., et al. "Melting line of aluminum from simulations of coexisting phases." _Physical Review B_ 49, no. 5 (1994): 3109-3115. {{< br >}}{{< br >}} Data Files ([ZIP]({{< baseurl >}}/resources/3320_lab4)) (The ZIP file contains: Kr.in, Kr\_SL.in, run\_gulp.j, run\_moldy.j, and Kr.restart.store.) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lab_assign4_soln)) |
+| 21 | Lab 5: Monte Carlo ([PDF]({{< baseurl >}}/resources/lab_assignment5)) |  {{< br >}}{{< br >}} 2DMC-1.0.jar ([JAR]({{< baseurl >}}/resources/2dmc10)) {{< br >}}{{< br >}} input\_example.txt ([TXT](/courses/materials-science-and-engineering/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/labs/input_example.txt)) {{< br >}}{{< br >}}  |
